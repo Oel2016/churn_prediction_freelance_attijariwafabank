@@ -14,6 +14,6 @@ Le client, une banque de détail, cherche à traiter le problème de l'attrition
 - Fournir des explications sur les prédictions du modèle, afin d’aider les conseillers à comprendre les causes du churn.
 
 ## Structure du projet
-- **dataset.csv** : Données brutes
+- **`dataset.csv`** : Données brutes
 - **`Code_Notebook.ipynb`** : Code d'Exploration des données et développement des modèles.
 - **`Results_Final_Presentation_For_Client.pdf`** : Pitch Final Devant le Client
